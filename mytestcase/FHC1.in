@@ -1,0 +1,1 @@
+(let ((let (lambda (x) (* x x)))) (let 10))
